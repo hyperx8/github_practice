@@ -1,0 +1,1 @@
+We should probably add a simple project, so we can build and test build scripts.
